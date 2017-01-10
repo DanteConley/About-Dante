@@ -12,8 +12,8 @@
 			<b><u>HOBBIES:</u></b>
 		<li>Cleaning litter boxes</li>
 		<li>Saving cats from cat ladies</li>
-		<li></li>
-		<li>DJing</li><br>
+		<li>Wearing cat ears like a boss</li>
+		<li>Cat DJing since 1992</li><br>
 
 		<img src="images/dante.JPG"/>
 		<img src="images/catsinspace.JPG"/>
