@@ -5,7 +5,7 @@
 	<body>
 		<p>
 		<b><u>My name is Dante and I like cats</u></b><br><br>
-			<img src="images/cats-politics-TN.jpg"><br>
+			<img src="images/cats-politics-TN.jpg"/><br>
 		Name: Dante D Conley<br>
 		Age: 24<br>
 		Location: Albuquerque NM<br><br>
